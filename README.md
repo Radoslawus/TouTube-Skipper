@@ -1,5 +1,9 @@
 # YouTube Ads Skipper
 
+Download:
+1. Click on Code and download zip
+2. Unpack to Your directory
+
 Installation for chrome:
 1. Open chrome and go to Settings.
 2. Go to Extensions
