@@ -1,0 +1,21 @@
+{
+    "name": "YouTube Ads Skipper",
+    "description": "Automatically skip and disable ads on Youtube.",
+    "version": "0.0.1",
+    "author": "RadoMir",
+    "manifest_version": 3,
+    "host_permissions": ["*://*.youtube.com/*"],
+    "permissions": ["storage"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "48TubiSkipper.png"
+    },
+    "content_scripts": [{
+        "js": ["options.js", "content.js"],
+        "matches": ["*://*.youtube.com/*"]
+    }],
+    "icons": {
+        "48": "48TubiSkipper.png",
+        "128": "128TubiSkipper.png"
+    }
+}
