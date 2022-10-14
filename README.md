@@ -1,4 +1,4 @@
-# TouTube-Skipper
+# YouTube-Skipper
 
 Installation for chrome:
 1. Open chrome and go to Settings.
