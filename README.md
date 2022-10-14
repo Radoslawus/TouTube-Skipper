@@ -1,4 +1,4 @@
-# YouTube-Skipper
+# YouTube Ads Skipper
 
 Installation for chrome:
 1. Open chrome and go to Settings.
